@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            Matics Barcelona
+locale:           Cat
+url:              http://maticsbarcelona.github.io/
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Matics Barcelona
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Societat d’Estudis Performatics"
+  email: matics@googlegroups.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: maticsbarcelona
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
