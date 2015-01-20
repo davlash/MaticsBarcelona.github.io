@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Setup
+title: Valores de Matics
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 image:
@@ -19,8 +19,9 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Installation
+## Tipo de organización
 
+Proyectos autónomos de iniciativa colectivizada
 Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
 
 If you are creating a new Jekyll site using Minimal Mistakes follow these steps:
