@@ -11,9 +11,9 @@ comments: false
 ## Obras destacadas: ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle ), Lummoblocks ( tetris gigante sobre fachadas), Sociograma interactivo ( visualización de relaciones entre las personas que habitan un espacio )
 
 <figure class="third">
-	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg">
-	<img src="https://farm9.staticflickr.com/8677/15412680174_af9c97a2a2_z.jpg">
-	<img src="https://farm8.staticflickr.com/7564/16142865578_1f47f9deba_z.jpg">
+	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg"><small>
+	<img src="https://farm9.staticflickr.com/8677/15412680174_af9c97a2a2_z.jpg"><small>
+	<img src="https://farm8.staticflickr.com/7564/16142865578_1f47f9deba_z.jpg"><small>
 	<figcaption>Obras</figcaption>
 </figure>
 
