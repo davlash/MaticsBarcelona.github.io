@@ -6,9 +6,11 @@ tags: [ComputerVision, Video, Interactive Installations]
 comments: false
 ---
 
-## Creative coder: Mainly involved in computer vision projects and graphical interactions. Greats influences from MedialabPrado and OpenFrameworks. He works and collaborate with artist and researchers about media art, visual perception, complexity, data visualization and mind perception.
+## Creative coder: 
+Mainly involved in computer vision projects and graphical interactions. Greats influences from MedialabPrado and OpenFrameworks. He works and collaborate with artist and researchers about media art, visual perception, complexity, data visualization and mind perception.
 
-## Obras destacadas: ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle ), Lummoblocks ( tetris gigante sobre fachadas), Sociograma interactivo ( visualización de relaciones entre las personas que habitan un espacio )
+## Obras destacadas: 
+ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle ), Lummoblocks ( tetris gigante sobre fachadas), Sociograma interactivo ( visualización de relaciones entre las personas que habitan un espacio )
 
 <figure class="third">
 	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg"><small>
