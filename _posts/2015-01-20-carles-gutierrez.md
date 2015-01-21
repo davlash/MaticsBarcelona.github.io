@@ -21,8 +21,10 @@ ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle ), 
 
 ## http:carlesgutierrez.github.io
 
+<figure class="one">
 image:
-  feature: feature-image-filename.jpg
+  feature: "https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg"
   credit: Michael Rose #name of the person or site you want to credit
   creditlink: http://mademistakes.com #url to their site or licensing
+</figure>
 
