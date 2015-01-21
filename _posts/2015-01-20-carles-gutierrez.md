@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carles Gutierrez
+title: "Carles Gutierrez"
 author: carles_gutierrez
 modified:
 excerpt: "Creative coder"
