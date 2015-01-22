@@ -1,5 +1,5 @@
 ---
-layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+layout: artists-index
+title: All Artists
+excerpt: "A List of Artists"
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Carles Gutierrez"
 author: carles_gutierrez
-modified:
 excerpt: "Creative coder"
+category: artists
 tags: [ComputerVision, Video, Interactive Installations]
 comments: false
 ---

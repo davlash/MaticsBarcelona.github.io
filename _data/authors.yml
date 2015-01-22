@@ -23,8 +23,18 @@ carles_gutierrez:
   name: Carles Gutierrez
   email: carles.gutierrez@gmail.com
   bio: "Artist"
-  avatar: bio-photo.jpg
+  avatar: https://avatars1.githubusercontent.com/u/203877?v=3&s=460
   twitter: carles
   flickr: carles.gutierrez
   google:
     plus: carles.gutierrez
+
+ovidiu_cincheza:
+  name: Ovidiu Cincheza
+  email: ovidiu.cincheza@gmail.com
+  bio: "Artist"
+  avatar: https://avatars1.githubusercontent.com/u/2742653?v=3&s=460
+  facebook: ovidiu.cincheza
+  flickr: ovidiu_cincheza
+  google:
+    plus: ovidiu.cincheza
