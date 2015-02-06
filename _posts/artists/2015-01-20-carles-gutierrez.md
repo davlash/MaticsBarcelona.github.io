@@ -16,8 +16,12 @@ ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle ), 
 
 <figure class="third">
 	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg">
-	<figcaption>with ChinosInternationalCC</figcaption>
 </figure>
+
+<figure class="third">
+	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg">
+</figure>
+
 
 <figure class="third">
 	<img src="https://farm9.staticflickr.com/8677/15412680174_af9c97a2a2_z.jpg">
