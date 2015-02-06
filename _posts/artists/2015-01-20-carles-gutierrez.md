@@ -14,7 +14,7 @@ Mainly involved in computer vision projects and graphical interactions. Greats i
 ### Obras destacadas: 
 
 #### ChinoPinball ( juego interactivo pinball en formato videomapping sobre calle )
-<figure class="third">
+<figure class="first">
 	<img src="https://farm8.staticflickr.com/7548/16330507045_db4dbaef1b_z.jpg">
 	<figcaption>with ChinoInteranationalCC</figcaption>
 </figure>
@@ -23,7 +23,7 @@ Mainly involved in computer vision projects and graphical interactions. Greats i
 ***
 
 #### Lummoblocks ( tetris gigante sobre fachadas)
-<figure class="third">
+<figure class="second">
 	<img src="https://farm9.staticflickr.com/8677/15412680174_af9c97a2a2_z.jpg">
 	<figcaption>with Lummo</figcaption>
 </figure>
