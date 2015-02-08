@@ -19,10 +19,11 @@ Her artistic projects are  part of the multidisciplinary collective, chinos inte
 
 linea de investigacion digital aplicada en textiles y wearables
 <figure class="third">
-	<img src="http://afroditipsarra.com/files/soft-comp4web.jpg">
+	<img src="http://fabtextiles.org/wp-content/uploads/2013/10/fabtextiles.jpg">
 </figure>
 
 ###EASTN
-The ScreamBooth is an installation that detects the scream of one, or various users, and snaps a photo while they are screaming. It uses state-of-the art devices to provide high-quality photographs, shown on the booth’s screen. All the devices, sensors and actuators are built inside a cool-design wooden box.
+European Art, Science amd Technology Network, commisioned by IAAC(Institute of Advanced Architecture of Catalunia)
+Partner coordinator and organiser of the EASTN european program, a growing network of artists mainly focusing on interaccion, sound installations and audiovisuals in the theme of tangibility.
 
-<iframe src="http://player.vimeo.com/video/50800462?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="58"></iframe><br/><br/>
+<iframe src="//player.vimeo.com/video/102776518" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>
