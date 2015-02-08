@@ -26,4 +26,4 @@ linea de investigacion digital aplicada en textiles y wearables
 European Art, Science amd Technology Network, commisioned by IAAC(Institute of Advanced Architecture of Catalunia)
 Partner coordinator and organiser of the EASTN european program, a growing network of artists mainly focusing on interaccion, sound installations and audiovisuals in the theme of tangibility.
 
-<iframe src="//player.vimeo.com/video/102776518" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>
+<iframe src="//player.vimeo.com/video/102776518" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
